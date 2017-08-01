@@ -6,7 +6,7 @@ Set of resolutions for the website: https://www.urionlinejudge.com.br/
 
 ## Information
 
-* Source code [available on GitHub](https://github.com/lpgoulart/URI-Solutions)
+* Source code [available on GitHub](https://github.com/lpgoulart/URI-Python3)
 
 ## Getting Help
 
